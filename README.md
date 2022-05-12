@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Amorim</h1>
+<h1 align="center">Hi, I'm Matheus Amorim</h1>
 <h3 align="center">I'm a developer in progress. Today I am studying systems analysis and development / working as a support technician at <a href=“https://www.insoft4.com.br/“ >Insoft4</a>.</h3>
 
 - 🌱 I’m currently learning/working with **Data science and PL SQL for Oracle Database.**
