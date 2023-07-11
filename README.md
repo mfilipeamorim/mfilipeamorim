@@ -1,11 +1,4 @@
 <h1 align="center">Hi, I'm Matheus Amorim</h1>
-<h3 align="center">Today I'm studying systems analysis and development & Working as a support technician at <a href=“https://www.insoft4.com.br/“ >Insoft4</a>.</h3>
-
-- 🌱 I’m currently working with **PL/SQL and Oracle Database.**
-
-- 👨‍🎓 I'm also studying **Data Science and Backend with Python/Java/Javascript and its frameworks for APIs creation.**
-
-- 📫 How to reach me **matheus.amorim02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
